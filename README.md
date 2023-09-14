@@ -16,7 +16,7 @@ Ideally, when faced with a pandemic of this intensity, experts rely not only on 
 | Decision Trees (gini and entropy), SVM, LR  | DOc2Vec (DBOW and Distributed Memory | BERT and BioBERT |
 
 ## Results
-<img align="right" alt="result" width="550" height="300" src="https://github.com/SayanaVrgs/Comparison_of_Machine_Learning_and_AI_algorithms_for_Covid_literature_classification/blob/master/data2.png">
+<img align="center" alt="result" width="600" height="350" src="https://github.com/SayanaVrgs/Comparison_of_Machine_Learning_and_AI_algorithms_for_Covid_literature_classification/blob/master/data2.png">
 
 On comparing certain instances where predictions and actual classifications differ in BERT models, it is seen that the models tend to correlation certain categories, namely prevention and treatment or diagnosis and treatment etc. It could also be that the number of epochs for training is low, and the accuracy might increase at higher epochs. Or, the abstract might have certain key words and the text content might have different key words due to which the models would have difficulty in correctly classifying the document.
 
